@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    padding-top: 20px;
+}
+.containers{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 56vh;
+    
+  
+}
+.children{
+    width: 500px;
+    
+
+}
+
+
+.childrens{
+    width: 500px;
+    
+
+    margin-left: 150px;
+align-items: center;
+}
